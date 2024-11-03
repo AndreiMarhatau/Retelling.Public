@@ -1,4 +1,4 @@
-Retelling Telegram Bot Terms and Conditions
+Retelling Telegram Bot Terms and Conditions V2
 
 Effective Date: 11/03/2024
 
