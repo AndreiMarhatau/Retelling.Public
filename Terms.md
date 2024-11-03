@@ -1,12 +1,12 @@
 Retelling Telegram Bot Terms and Conditions
 
-Effective Date: 10/22/2024
+Effective Date: 11/03/2024
 
 Welcome to Retelling Telegram Bot (the “Bot”), a Telegram bot designed to assist users in language learning by generating customized texts and providing evaluations based on user input. By accessing or using the Bot, you agree to be bound by these Terms and Conditions (“Terms”). If you do not agree with any part of these Terms, please refrain from using the Bot.
 
 1. Acceptance of Terms
 
-By using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms, including any future modifications. We reserve the right to update or change these Terms at any time. Any changes will be effective immediately upon posting within the Bot or at [Insert Link].
+By using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms, including any future modifications. We reserve the right to update or change these Terms at any time. Any changes will be effective immediately upon posting within the Bot or at https://raw.githubusercontent.com/AndreiMarhatau/Retelling.Public/refs/heads/main/Terms.md.
 
 2. Description of Service
 
@@ -32,7 +32,7 @@ By using the Bot, you consent to the collection and processing of the following 
 Data Usage
 
 Your data is used solely for the purpose of providing and improving the Bot’s services. We do not share your personal information with third parties without your consent.
-Information you provide directly is sent to OpenAI Inc. servers for generation purposes only.
+Information directly provided by you is sent to OpenAI Inc. servers for generation purposes only.
 
 Data Deletion
 
@@ -42,13 +42,13 @@ You have the right to request the deletion of all your data at any time by using
 
 Free Version
 
-	•	Generate up to 5 texts per day.
-	•	Receive up to 10 evaluations per day based on your retellings.
+	•	Generate up to 3 texts per day.
+	•	Receive up to 6 evaluations per day based on your retellings.
 
 Paid Version
 
-	•	Generate up to 50 texts and audios per day.
-	•	Receive up to 100 evaluations per day.
+	•	Generate up to 25 texts and audios per day.
+	•	Receive up to 50 evaluations per day.
 
 5. Purchasing the Paid Version
 
@@ -93,12 +93,12 @@ Paid Version
 13. Changes to the Terms
 
 	•	We may modify these Terms at any time.
-	•	Changes will be communicated via the Bot or at [Insert Link].
+	•	Changes will be communicated via the Bot or at https://raw.githubusercontent.com/AndreiMarhatau/Retelling.Public/refs/heads/main/Terms.md.
 	•	Your continued use of the Bot after any changes signifies your acceptance of the new Terms.
 
 14. Access to Terms
 
-	•	These Terms are available at any time by using the /terms command within the Bot or by visiting [Insert Link].
+	•	These Terms are available at any time by using the /terms command within the Bot or by visiting https://raw.githubusercontent.com/AndreiMarhatau/Retelling.Public/refs/heads/main/Terms.md.
 
 15. Governing Law
 
