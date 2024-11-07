@@ -1,4 +1,4 @@
-Retelling Telegram Bot Terms and Conditions V4
+Retelling Telegram Bot Terms and Conditions V5
 
 Effective Date: 11/07/2024
 
@@ -71,7 +71,10 @@ Paid Version
 	  •	Technical issues that prevent you from using the paid features.
 	  •	Features significantly differ from those advertised at the time of purchase.
    	•	Refunds will be processed in accordance with Telegram policies.
-      	•	Refunds will not be available after account deletion.
+      	•	Refunds will not be available when any of the following conditions are met:
+   	  •	User deleted their account.
+   	  •	User used the Bot after the purchase above the free usage limits.
+   	  •	Refund request is for a purchase which has been already expired.
 
 9. Support and Problem Reporting
 
