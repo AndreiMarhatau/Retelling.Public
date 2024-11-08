@@ -1,6 +1,6 @@
-Retelling Telegram Bot Terms and Conditions V5
+Retelling Telegram Bot Terms and Conditions V6
 
-Effective Date: 11/07/2024
+Effective Date: 11/08/2024
 
 Welcome to Retelling Telegram Bot (the “Bot”), a Telegram bot designed to assist users in language learning by generating customized texts and providing evaluations based on user input. By accessing or using the Bot, you agree to be bound by these Terms and Conditions (“Terms”). If you do not agree with any part of these Terms, please refrain from using the Bot.
 
@@ -51,8 +51,8 @@ After deletion the Bot stores solely your usage numvers which are connected to T
 
 Free Version
 
-	•	Generate up to 3 texts per day.
-	•	Receive up to 6 evaluations per day based on your retellings.
+	•	Generate up to 5 texts per day.
+	•	Receive up to 10 evaluations per day based on your retellings.
 
 Paid Version
 
